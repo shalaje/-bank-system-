@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Bank Management System is a simple Java-based application that simulates basic banking operations such as creating accounts, depositing money, withdrawing money, and transferring funds between accounts. This project demonstrates using Object-Oriented Programming (OOP) principles such as inheritance, encapsulation, and polymorphism.
+The Bank System is a simple Java-based application that simulates basic banking operations such as creating accounts, depositing money, withdrawing money, and transferring funds between accounts. This project demonstrates using Object-Oriented Programming (OOP) principles such as inheritance, encapsulation, and polymorphism.
 
 ## Features
 
@@ -77,13 +77,13 @@ Enter command: exit (Displays again, you can choose from the available commands)
 
 
 **Code Structure**
-Test.java: The entry point of the application. Contains the main method and user interaction logic.
-Bank.java: Singleton class that manages accounts and transactions.
-Account.java: Represents a bank account.
-Transaction.java: Abstract class representing a transaction.
-Deposit.java: Class representing a deposit transaction.
-Withdrawal.java: Class representing a withdrawal transaction.
-Transfer.java: Class representing a transfer transaction.
+1. Test.java: The entry point of the application. Contains the main method and user interaction logic.
+2. Bank.java: Singleton class that manages accounts and transactions.
+3. Account.java: Represents a bank account.
+4. Transaction.java: Abstract class representing a transaction.
+5. Deposit.java: Class representing a deposit transaction.
+6. Withdrawal.java: Class representing a withdrawal transaction.
+7. Transfer.java: Class representing a transfer transaction.
 
 **Contributing**
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
